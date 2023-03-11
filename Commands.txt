@@ -1,0 +1,5 @@
+Launching app: make sure to bundle install then bundle exec jekyll serve
+
+Bundling: Sudo bundle install
+
+Typically want to use Sudo
