@@ -4,19 +4,14 @@ title: About
 permalink: /about/
 ---
 
-![Profile][/Users/amanarham/Downloads/Profile.png]
+![Profile](Profile.png)
 
-Hello, I am Aman Arham and I am currently a Sophomore at the University of Texas at Austin. I am currently planning on focusing in Software Development and plan to work on Cloud Computing technologies, a passion of mine. In addition, I will be interning at IBM this summer as a Technical Sales Engineer. I plan on continuing my passion in technology and work on large scale projects with impact across the globe.
+Hello, I am Aman Arham and I am currently a Sophomore at the University of Texas at Austin. I am currently planning to focus in Software Development and work on Cloud Computing technologies, a passion of mine. In addition, I will be interning at IBM this summer as a Technical Sales Engineer. I plan to continue my passion in technology and work on large scale projects with impact across the globe.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A little bit more about myself, I grew up in Toronto, Canada. I lived in Canada for around 11 years before moving to Dallas, TX in 2015. I attended Pearson Middle School and after, went to Rick Reedy High School. Besides my academics, I love playing sports, specifially Soccer. I have played soccer for quiet some time and enjoy the sport. My favorite team is Arsenal, a noth london team sitting at the top of the premier league currently. In addition, I enjoy playing football, basketball, and cricket. I have also started to get into boxing as well.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here are some of my profiles. Follow and wait for some amazing content:
+- [Instagram](https://www.instagram.com/maarham/) 
+- [Medium](https://medium.com/@amanarham)
+- [LinkedIn](https://www.linkedin.com/in/aman-arham/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
